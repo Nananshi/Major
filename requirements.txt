@@ -8,3 +8,4 @@ pymupdf>=1.23.0
 pdfplumber>=0.10.0
 fpdf>=1.7.2
 requests>=2.31.0
+spacy-transformers

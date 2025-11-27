@@ -4,7 +4,7 @@ Resume–JD Matching Report
 SKILLS Match: 57.74% → Ok
 EXPERIENCE Match: 67.08% → Good
 EDUCATION Match: 100.0% → Very Good
-PROJECTS Match: 7.54% → Poor
+PROJECTS Match: 5.56% → Poor
 ACHIEVEMENTS Match: 0.0% → Poor
 
 Final Scoring Basis: Skills (50%), Experience (30%), Education (20%)
