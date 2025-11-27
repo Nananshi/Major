@@ -8,4 +8,5 @@ pymupdf>=1.23.0
 pdfplumber>=0.10.0
 fpdf>=1.7.2
 requests>=2.31.0
-spacy-transformers
+https://github.com/explosion/spacy-models/releases/download/en_core_web_trf-3.7.2/en_core_web_trf-3.7.2-py3-none-any.whl
+
