@@ -1,0 +1,7 @@
+NAME: []
+ORG: ['cnn', 'google cloud']
+EDUCATION: ['bachelor', 'master']
+EXPERIENCE: ['engineer', 'experience', 'led', 'research']
+PROJECTS: ['application', 'beautiful soup', 'django', 'firebase', 'graphql', 'matplotlib', 'mongodb', 'nltk', 'nosql', 'numpy', 'pyspark', 'pytorch', 'seaborn', 'spacy', 'tensorflow']
+ACHIEVEMENTS: []
+SKILLS: ['aws', 'azure', 'data science', 'deep learning', 'django', 'keras', 'machine learning', 'matplotlib', 'nlp', 'numpy', 'pandas', 'pytorch', 'seaborn', 'sql', 'tensorflow', 'transformers']

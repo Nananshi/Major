@@ -1,0 +1,20 @@
+Enhanced Project/Experience Sentences:
+=====================================
+- Here's a rewritten resume sentence that highlights the specified skills naturally for ATS, incorporating information from your original messy input:
+
+"Dylan Hernandez is an experienced **Machine Learning Developer** and **Software Engineering** professional with an M.Tech in **Machine Learning**. Proficient in **Python** and **Object-Oriented Programming**, he applies these skills to **Software Development** and **Application Development**, with expertise in **Data Science**, **Neural Networks**, **Keras**, **TensorFlow**, and **Scikit-learn**. At Cisco, he developed **Asynchronous Programming** functions to connect **machine learning** applications with various **Database Management** systems. He also led a project on **Intelligent Disease Recognition** utilizing **Neural Networks** and advanced **Pair Extraction Understanding** techniques."
+
+Skills Missing in CV (from JD):
+=====================================
+- pytorch
+- deep learning
+- aws
+- django
+- numpy
+- transformers
+- nlp
+- matplotlib
+- seaborn
+- pandas
+- azure
+- sql

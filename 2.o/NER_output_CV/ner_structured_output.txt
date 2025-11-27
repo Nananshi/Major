@@ -1,0 +1,7 @@
+NAME: ['dylan hernandez']
+ORG: ['cisco', 'jodhpur university', 'm.tech', 'nanyang university']
+EDUCATION: ['b.tech', 'm.tech', 'master', 'university']
+EXPERIENCE: ['developed', 'engineer', 'experience', 'led', 'project']
+PROJECTS: ['Sync Functions Connect Ml Applications Databases Cl', 'application', 'developed', 'keras', 'project']
+ACHIEVEMENTS: ['recognition']
+SKILLS: ['data science', 'keras', 'machine learning', 'python', 'tensorflow']
